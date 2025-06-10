@@ -22,18 +22,16 @@ The system captures real-time air quality data and displays it via a simple web 
 
 The web page visually represents pollution levels with:
 
-- **Green background:** Low pollution
-- **Yellow background:** Medium pollution
-- **Red background:** High pollution
+## Output Display
 
-<<<<<<< HEAD
+The web page visually represents pollution levels with:
+
+- **Green background:** Low pollution  
+- **Yellow background:** Medium pollution  
+- **Red background:** High pollution  
+
 ### Screenshots
 
-Add your output screenshots below by placing images in the `images` folder and linking them here:
-
-```markdown
-![Low Pollution](images/noPolution.png)
-![Medium Pollution](images/medium polutiion.png)
-![High Pollution](images/high polutuoon.png)
-=======
->>>>>>> b73399600485bf62ae886dc308d41cf074d86332
+![Low Pollution](images/noPolution.png)  
+![Medium Pollution](images/medium-polution.png)  
+![High Pollution](images/high-polution.png)  
